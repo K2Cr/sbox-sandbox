@@ -1,7 +1,7 @@
 {
   "Title": "Sandbox Game",
   "Type": "game",
-  "Org": "facepunch",
+  "Org": "local",
   "Ident": "sandbox",
   "Schema": 1,
   "HasAssets": true,
@@ -101,6 +101,7 @@
           "b": "glass"
         }
       ]
-    }
+    },
+    "GameCategory": "None"
   }
 }
